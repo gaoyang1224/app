@@ -1,0 +1,376 @@
+2022-12-11 17:18:37,000 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:18:37,663 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:18:38,949 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:18:40,094 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:18:41,205 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:18:43,789 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 17:18:53,927 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:18:55,017 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:19:10,284 - ERROR: 往输入框--【用户页面-输入账号】--输入值失败
+2022-12-11 17:19:10,299 - ERROR: Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 109, in input_send_keys
+    self.driver.find_element(*loc).send_keys(value)
+  File "F:\Python\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+2022-12-11 17:19:10,980 - INFO: 对-【用户页面-输入账号】--操作进行截图--成功
+2022-12-11 17:19:10,980 - INFO: 图片保存为F:\app自动化\error_images\2022-12-11_17_19_10_用户页面-输入账号.png
+2022-12-11 17:19:21,509 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:19:22,598 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:19:54,673 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:19:55,727 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:20:10,938 - ERROR: 往输入框--【用户页面-输入账号】--输入值失败
+2022-12-11 17:20:10,938 - ERROR: Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 109, in input_send_keys
+    self.driver.find_element(*loc).send_keys(value)
+  File "F:\Python\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+2022-12-11 17:20:11,545 - INFO: 对-【用户页面-输入账号】--操作进行截图--成功
+2022-12-11 17:20:11,545 - INFO: 图片保存为F:\app自动化\error_images\2022-12-11_17_20_10_用户页面-输入账号.png
+2022-12-11 17:20:40,872 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:20:40,940 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:20:41,797 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:20:42,950 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:20:43,580 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:20:46,740 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 17:20:58,762 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:20:58,940 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:20:59,813 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:21:01,036 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:21:01,756 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:21:01,901 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 17:22:43,438 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:22:44,245 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:22:45,678 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:22:46,774 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:22:47,409 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:22:50,537 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 17:23:01,874 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:23:02,622 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:23:04,030 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:23:04,626 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:23:05,327 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:23:05,476 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 17:23:17,397 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:23:17,552 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:23:18,825 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:23:19,932 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:23:20,539 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:23:35,713 - ERROR: 查找元素--【用户登录页-toast弹窗提示】--失败
+2022-12-11 17:23:35,713 - ERROR: Message: An element could not be located on the page using the given search parameters.
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 55, in get_element
+    ele = self.driver.find_element(*loc)
+  File "F:\Python\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.
+
+2022-12-11 17:23:36,366 - INFO: 对-【用户登录页-toast弹窗提示】--操作进行截图--成功
+2022-12-11 17:23:36,366 - INFO: 图片保存为F:\app自动化\error_images\2022-12-11_17_23_35_用户登录页-toast弹窗提示.png
+2022-12-11 17:23:47,629 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:23:48,401 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:23:49,312 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:23:50,426 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:23:51,777 - ERROR: 点击元素--【用户页面-登录按钮】--失败
+2022-12-11 17:23:51,777 - ERROR: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 91, in click_element
+    self.driver.find_element(*loc).click()
+  File "F:\Python\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+
+2022-12-11 17:23:51,792 - ERROR: 对-【用户页面-登录按钮】--操作进行截图--失败
+2022-12-11 17:23:51,792 - ERROR: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 91, in click_element
+    self.driver.find_element(*loc).click()
+  File "F:\Python\lib\site-packages\appium\webdriver\webdriver.py", line 283, in find_element
+    return self.execute(RemoteCommand.FIND_ELEMENT, {'using': by, 'value': value})['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\app自动化\common\base_page.py", line 277, in error_save_screenshot
+    self.driver.save_screenshot(file_path)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "F:\Python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "F:\Python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+
+2022-12-11 17:25:25,229 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:25:25,899 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:25:27,278 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:25:28,387 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:25:28,949 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:25:32,083 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 17:25:43,157 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:25:43,935 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:25:44,863 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:25:46,044 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:25:46,647 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:25:48,877 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 17:26:00,069 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:26:01,101 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:26:02,390 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:26:03,015 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:26:03,666 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:26:05,915 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 17:26:16,746 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:26:17,490 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:26:18,390 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:26:19,526 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:26:20,118 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:26:22,730 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 17:35:22,287 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:35:22,944 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:35:23,744 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:35:24,856 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:35:25,987 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:35:28,572 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 17:35:39,662 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:35:40,459 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:35:41,242 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:35:41,939 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:35:42,588 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:35:53,970 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:35:54,689 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:35:55,564 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:35:56,734 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:35:57,333 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 17:36:08,626 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 17:36:09,399 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 17:36:10,325 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 17:36:11,464 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 17:36:12,104 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:09:20,632 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:09:21,415 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:09:22,788 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:09:23,917 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:09:24,509 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:09:27,626 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:09:41,742 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:09:42,498 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:09:43,419 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:09:44,097 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:09:44,730 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:09:58,763 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:09:59,545 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:10:01,450 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:10:02,560 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:10:03,168 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:10:17,238 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:10:18,019 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:10:18,798 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:10:19,925 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:10:20,548 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:16:27,770 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:16:28,425 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:16:29,208 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:16:30,333 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:16:31,404 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:16:34,023 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:16:47,891 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:16:48,632 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:16:49,512 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:16:50,222 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:16:50,890 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:16:51,589 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:17:05,527 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:17:06,297 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:17:07,190 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:17:07,854 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:17:08,490 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:17:08,639 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:17:24,105 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:17:24,876 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:17:25,763 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:17:26,405 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:17:27,046 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:17:29,512 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:36:27,140 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:36:27,803 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:36:28,637 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:36:29,777 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:36:30,893 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:36:33,521 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:36:47,830 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:36:47,995 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:36:48,967 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:36:50,150 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:36:50,795 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:36:50,972 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:37:04,925 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:37:05,676 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:37:07,055 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:37:08,164 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:37:08,825 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:37:09,542 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:48:27,925 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:48:28,694 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:48:29,630 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:48:30,761 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:48:31,417 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:48:34,535 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:48:48,336 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:48:49,134 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:48:50,071 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:48:51,253 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:48:51,895 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:48:52,043 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:53:46,168 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:53:46,823 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:53:48,160 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:53:48,780 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:53:49,423 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:53:52,614 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:54:06,907 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:54:07,684 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:54:08,573 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:54:09,763 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:54:10,439 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:54:11,202 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:54:24,991 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:54:25,756 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:54:26,720 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:54:27,456 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:54:28,078 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:54:28,658 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:54:42,417 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:54:43,176 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:54:44,062 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:54:45,147 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:54:45,773 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:54:48,312 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:56:33,000 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:56:33,650 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:56:35,137 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:56:35,637 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:56:36,765 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:56:39,369 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 20:56:53,277 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:56:54,019 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:56:54,940 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:56:55,626 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:56:56,286 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:56:57,042 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:57:10,900 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:57:11,676 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:57:12,463 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:57:13,610 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:57:14,255 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:57:15,024 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 20:57:28,843 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 20:57:29,623 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 20:57:30,414 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 20:57:31,546 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 20:57:32,180 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 20:57:34,706 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:09:10,372 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:09:11,164 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:09:12,034 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:09:12,665 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:09:13,308 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:09:16,410 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 21:09:30,394 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:09:31,152 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:09:32,060 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:09:33,252 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:09:33,856 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:09:34,448 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:09:49,115 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:09:49,903 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:09:51,222 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:09:52,335 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:09:52,916 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:09:53,509 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:10:07,658 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:10:08,397 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:10:09,782 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:10:10,914 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:10:11,564 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:10:14,064 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:15:37,554 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:15:38,320 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:15:39,218 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:15:40,339 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:15:40,967 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:15:44,022 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2022-12-11 21:15:57,877 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:15:58,635 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:16:00,019 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:16:01,393 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:16:02,032 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:16:02,744 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:16:16,581 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:16:17,360 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:16:18,260 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:16:19,458 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:16:20,082 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:16:20,666 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2022-12-11 21:16:35,476 - INFO: 点击元素--【首页_我的柠檬】--成功
+2022-12-11 21:16:35,661 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2022-12-11 21:16:37,046 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2022-12-11 21:16:38,191 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2022-12-11 21:16:38,824 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2022-12-11 21:16:41,369 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功

@@ -1,0 +1,6 @@
+INFO     mylog:base_page.py:98 点击元素--【首页_我的柠檬】--成功
+INFO     mylog:base_page.py:98 点击元素--【用户页面-点击头像登录】--成功
+INFO     mylog:base_page.py:116 往输入框--【用户页面-输入账号】--输入值成功
+INFO     mylog:base_page.py:116 往输入框--【用户页面-输入密码】--输入值成功
+INFO     mylog:base_page.py:98 点击元素--【用户页面-登录按钮】--成功
+INFO     mylog:base_page.py:62 查找元素--【用户页面-用户头像信息】--成功

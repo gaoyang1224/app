@@ -374,3 +374,158 @@ selenium.common.exceptions.WebDriverException: Message: An unknown server-side e
 2022-12-11 21:16:38,191 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
 2022-12-11 21:16:38,824 - INFO: 点击元素--【用户页面-登录按钮】--成功
 2022-12-11 21:16:41,369 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:34:31,970 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:34:32,126 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:34:33,592 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:34:34,218 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:34:34,867 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:34:38,057 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2023-09-19 21:34:49,780 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:34:50,532 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:34:51,484 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:34:52,172 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:34:52,787 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:34:53,383 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:35:05,566 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:35:05,721 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:35:07,073 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:35:07,677 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:35:08,279 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:35:08,884 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:35:20,309 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:35:21,077 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:35:21,980 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:35:23,092 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:35:23,717 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:35:26,272 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:52:38,751 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:52:38,865 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:52:40,143 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:52:41,270 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:52:41,934 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:52:45,102 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2023-09-19 21:52:57,183 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:52:57,976 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:52:58,900 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:53:00,098 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:53:00,720 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:53:01,305 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:53:13,238 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:53:13,961 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:53:14,846 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:53:16,026 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:53:16,678 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:53:17,423 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:53:29,086 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:53:29,748 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:53:30,602 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:53:31,700 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:53:32,760 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:53:34,739 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:54:32,100 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:54:32,833 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:54:34,218 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:54:35,945 - ERROR: 往输入框--【用户页面-输入密码】--输入值失败
+2023-09-19 21:54:35,945 - ERROR: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Traceback (most recent call last):
+  File "D:\app_xiangmu\common\base_page.py", line 109, in input_send_keys
+    self.driver.find_element(*loc).send_keys(value)
+  File "D:\python\lib\site-packages\appium\webdriver\webelement.py", line 218, in send_keys
+    self._execute(RemoteCommand.SEND_KEYS_TO_ELEMENT, {'text': ''.join(keys), 'value': keys})
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+
+2023-09-19 21:54:35,978 - ERROR: 对-【用户页面-输入密码】--操作进行截图--失败
+2023-09-19 21:54:35,978 - ERROR: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+Traceback (most recent call last):
+  File "D:\app_xiangmu\common\base_page.py", line 109, in input_send_keys
+    self.driver.find_element(*loc).send_keys(value)
+  File "D:\python\lib\site-packages\appium\webdriver\webelement.py", line 218, in send_keys
+    self._execute(RemoteCommand.SEND_KEYS_TO_ELEMENT, {'text': ''.join(keys), 'value': keys})
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\app_xiangmu\common\base_page.py", line 277, in error_save_screenshot
+    self.driver.save_screenshot(file_path)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 31, in check_response
+    raise wde
+  File "D:\python\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+  File "D:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: read ECONNRESET
+
+2023-09-19 21:54:49,000 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:54:49,131 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:54:50,050 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:54:51,239 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:54:51,901 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:54:52,480 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:55:04,994 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:55:05,762 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:55:06,658 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:55:07,337 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:55:08,000 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:55:08,577 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:55:21,049 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:55:21,833 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:55:22,690 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:55:23,784 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:55:24,422 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:55:27,008 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:59:00,066 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:59:00,803 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:59:01,747 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:59:03,161 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:59:03,753 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:59:06,923 - INFO: 查找元素--【用户页面-用户头像信息】--成功
+2023-09-19 21:59:19,137 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:59:19,893 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:59:20,762 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:59:21,476 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:59:22,080 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:59:22,669 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:59:35,466 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:59:35,637 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:59:36,530 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:59:37,763 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:59:38,420 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:59:39,138 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
+2023-09-19 21:59:51,300 - INFO: 点击元素--【首页_我的柠檬】--成功
+2023-09-19 21:59:52,074 - INFO: 点击元素--【用户页面-点击头像登录】--成功
+2023-09-19 21:59:52,869 - INFO: 往输入框--【用户页面-输入账号】--输入值成功
+2023-09-19 21:59:53,524 - INFO: 往输入框--【用户页面-输入密码】--输入值成功
+2023-09-19 21:59:54,159 - INFO: 点击元素--【用户页面-登录按钮】--成功
+2023-09-19 21:59:56,686 - INFO: 查找元素--【用户登录页-toast弹窗提示】--成功
